@@ -1,9 +1,9 @@
 {
   "name": "electron-updater-example",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "main": "main.js",
   "description": "electron-updater example project",
-  "author": "Matt Haggard",
+  "author": "vijay <vijay@mymail.com>",
   "scripts": {
     "publish": "build -p always",
     "start": "electron ."
